@@ -1,14 +1,3 @@
-color:
-  saturation: 1
-  brandStrength: 1
-  rhythmicContrast: 1
-  brandColors:
-    - '#252831'
-    - '#31131B'
-    - '#645C38'
-    - '#43202B'
-    - '#572B4C'
-  lightness: 1
 collections:
   - index:
       path: /
@@ -21,6 +10,17 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-layout_spectrum: 1
 typography_spectrum: 0.8315412
+color:
+  saturation: 1
+  brandStrength: 1
+  lightness: 1
+  brandColors:
+    - '#301A24'
+    - '#B11A42'
+    - '#8A5B1B'
+    - '#AD881F'
+    - '#589FC0'
+  rhythmicContrast: 1
+layout_spectrum: 1
 name: Isaac Arango Saad
