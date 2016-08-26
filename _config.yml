@@ -1,26 +1,14 @@
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
+layout_spectrum: 1
 typography_spectrum: 0.8315412
 color:
-  saturation: 1
+  saturation: 0.8010753
   brandStrength: 1
-  lightness: 1
+  lightness: 0.8602151
   brandColors:
-    - '#301A24'
-    - '#B11A42'
-    - '#8A5B1B'
-    - '#AD881F'
-    - '#589FC0'
+    - '#FDFDFD'
+    - '#A6C3D3'
+    - '#0D1925'
+    - '#A3915F'
+    - '#6D5F56'
   rhythmicContrast: 1
-layout_spectrum: 1
 name: Isaac Arango Saad
